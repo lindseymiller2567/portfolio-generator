@@ -17,7 +17,7 @@ const writeFile = fileContent => {
             });
         });
     });
-};
+}; 
 
 const copyFile = () => {
     return new Promise((resolve, reject) => {
